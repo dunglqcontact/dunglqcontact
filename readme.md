@@ -1,3 +1,5 @@
+![desktop](https://user-images.githubusercontent.com/67992621/114918294-1f52ed00-9e51-11eb-9bfc-4fbc12d1dd8a.png)
+
 ## Hi, I'm DungLQ. Welcome to my Githubs
 * I'm currently a student of FPT University in HCMC Campus
 * My goal is become a web-developer
