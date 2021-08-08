@@ -3,7 +3,7 @@
 ## Hi, I'm DungLQ. Welcome to my Githubs
 * I'm currently a student of FPT University in HCMC Campus
 * My goal is become a web-developer
-* I was more training in Java core Web Application, but I'm falling in love with ASP.Net
+* I was more training in Java core Web Application, but I'm falling in love with ASP.NET
 ## Connect me via:
 1. [Facebook](https://www.facebook.com/quocdung.le.56)
 2. Email: dunglq.contact@gmail.com
